@@ -1,15 +1,4 @@
-# ASC---Tema-1---Marketplace
-ASC - Tema 1 - Marketplace
-Nume: Radoi Bogdan-Mihai 
-Grupa: 333CB
-
-
-Tema 1 - ASC
-
-
-Implementare:
-
-Am realizat implementarea tuturor cerintelor temei completand cele 3 clase astfel:
+# Producer-Consumer-Problem
 
 In clasa producer am verificat daca exista loc in coada de produse si daca da se va publica un produs dupa timpul specificat pentru fiecare. In caz contrar se asteapta un timp dat si se incearca din nou
 
@@ -25,7 +14,3 @@ Sincronizarea se va realiza prin lock-uri dar si prin operatiile threadsafe din 
 
 Printre dificultatile intampinate se numara nevoia de a returna un produs la producator.
 Am reusit sa rezolv aceasta problema prin utilizarea unui dictionar, atasand fiecarui produs, id-ul producatorului sau.
-
-Consider ca tema este utila ca exercitiu pentru lucratul cu thread-uri in python.
-
-Git: https://github.com/bogdan-R2/ASC---Tema-1---Marketplace
