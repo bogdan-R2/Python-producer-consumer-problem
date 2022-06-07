@@ -1,12 +1,3 @@
-"""
-RADOI BOGDAN-MIHAI 333CB
-This module represents the Marketplace.
-
-Computer Systems Architecture Course
-Assignment 1
-March 2021
-"""
-
 import threading
 
 class Marketplace:
