@@ -1,4 +1,4 @@
-# Producer-Consumer-Problem
+# Producer-Consumer Problem
 
 In clasa producer am verificat daca exista loc in coada de produse si daca da se va publica un produs dupa timpul specificat pentru fiecare. In caz contrar se asteapta un timp dat si se incearca din nou
 
