@@ -1,12 +1,3 @@
-"""
-RADOI BOGDAN-MIHAI 333CB
-This module represents the Consumer.
-
-Computer Systems Architecture Course
-Assignment 1
-March 2021
-"""
-
 from threading import Thread
 import time
 
