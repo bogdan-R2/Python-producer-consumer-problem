@@ -1,11 +1,3 @@
-"""
-This module offers the available Products.
-
-Computer Systems Architecture Course
-Assignment 1
-March 2021
-"""
-
 from dataclasses import dataclass
 
 
